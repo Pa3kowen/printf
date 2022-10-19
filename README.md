@@ -1,1 +1,1 @@
-printf projectcollaborative project by Patrick Onyeka and John Njoku
+printf project collaborative project by Patrick Onyeka and John Njoku
